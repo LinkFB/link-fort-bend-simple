@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fort Bend County Democratic Party//Event Calendar//EN
+
+BEGIN:VEVENT
+UID:tx-ev-period-2026101920261030@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261031
+SUMMARY:Texas 2026 Midterms Early Voting Period
+DESCRIPTION:Please vote as early in the Early Voting period as possible.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Texas 2026 Midterms Early Voting Begins
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ev-20261019@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261019T120000Z
+DTEND:20261020T000000Z
+SUMMARY:Texas 2026 Midterms Early Voting (Mon)
+DESCRIPTION:Early Voting hours are 7 am – 7 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ev-20261020@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261020T120000Z
+DTEND:20261021T000000Z
+SUMMARY:Texas 2026 Midterms Early Voting (Tue)
+DESCRIPTION:Early Voting hours are 7 am – 7 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ev-20261021@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261021T120000Z
+DTEND:20261022T000000Z
+SUMMARY:Texas 2026 Midterms Early Voting (Wed)
+DESCRIPTION:Early Voting hours are 7 am – 7 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ev-20261022@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261022T120000Z
+DTEND:20261023T000000Z
+SUMMARY:Texas 2026 Midterms Early Voting (Thu)
+DESCRIPTION:Early Voting hours are 7 am – 7 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ev-20261023@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261023T120000Z
+DTEND:20261024T000000Z
+SUMMARY:Texas 2026 Midterms Early Voting (Fri)
+DESCRIPTION:Early Voting hours are 7 am – 7 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ev-20261024@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261024T120000Z
+DTEND:20261025T000000Z
+SUMMARY:Texas 2026 Midterms Early Voting (Sat)
+DESCRIPTION:Early Voting hours are 7 am – 7 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ev-20261025@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261025T170000Z
+DTEND:20261025T230000Z
+SUMMARY:Texas 2026 Midterms Early Voting Hours (Sun 12 pm – 6 pm)
+DESCRIPTION:Sunday voting hours are 12 pm – 6 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ev-20261026@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261026T120000Z
+DTEND:20261027T000000Z
+SUMMARY:Texas 2026 Midterms Early Voting (Mon)
+DESCRIPTION:Early Voting hours are 7 am – 7 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Texas 2026 Midterms Early Voting Final Week
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ev-20261027@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261027T120000Z
+DTEND:20261028T000000Z
+SUMMARY:Texas 2026 Midterms Early Voting (Tue)
+DESCRIPTION:Early Voting hours are 7 am – 7 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ev-20261028@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261028T120000Z
+DTEND:20261029T000000Z
+SUMMARY:Texas 2026 Midterms Early Voting (Wed)
+DESCRIPTION:Early Voting hours are 7 am – 7 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ev-20261029@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261029T120000Z
+DTEND:20261030T000000Z
+SUMMARY:Texas 2026 Midterms Early Voting (Thu)
+DESCRIPTION:Early Voting hours are 7 am – 7 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ev-20261030@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261030T120000Z
+DTEND:20261031T000000Z
+SUMMARY:Texas 2026 Midterms Early Voting (Fri)
+DESCRIPTION:Early Voting hours are 7 am – 7 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tx-ed-20261103@fortbenddemocrat.com
+DTSTAMP:20260706T180000Z
+DTSTART:20261103T130000Z
+DTEND:20261104T010000Z
+SUMMARY:Texas 2026 Midterms Election Day (Tue)
+DESCRIPTION:Election Day voting hours are 7 am – 7 pm.\n\nDon’t stop at the top — vote the whole ballot.
+URL:https://www.fortbendcountytx.gov/government/departments/elections-voter-registration
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Texas 2026 Midterms Election Day - Last day to vote!
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR
